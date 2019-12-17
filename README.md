@@ -1,5 +1,5 @@
 # BaloonGame_HCI
-Executtion Instructions
+Execution Instructions
   -Import the given files as a project and run on either device or emulator, minimum api requiered- 22
 This project is a interactive android game in which the user's objective is to pop the baloons of the right shape and color on the screen.
 
